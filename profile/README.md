@@ -39,15 +39,5 @@ This organization is curated and maintained by [@10xDeVv](https://github.com/10x
 
 ---
 
-## 🧪 Supported By
-
-Development is supported in part by tools from the [GitHub Student Developer Pack](https://education.github.com/pack), including:
-
-- JetBrains IntelliJ IDEA Ultimate  
-- Render (cloud hosting)  
-- Namecheap (domain management)  
-- Supabase, MongoDB Atlas, and more
-
----
 
 > For questions, collaborations, or code requests, feel free to open an issue or reach out via the YouTube channel.
