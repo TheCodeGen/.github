@@ -24,7 +24,7 @@ Many of our projects are featured in **silent, ASMR-style build sessions** on Yo
 
 ## 🧱 Featured Repositories
 
-- [`javafx-login-ui`](https://github.com/TheCodeGen/javafx-login-ui)  
+- [`javafx-login-ui`](https://github.com/TheCodeGen/Javafx_auth_application)  
   A fully styled login & signup screen with video background and async Spring Boot API integration.
 
 - `springboot-auth-api` *(coming soon)*  
