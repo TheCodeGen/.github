@@ -18,7 +18,7 @@ We specialize in clean user interfaces, seamless backend integrations, and open-
 
 Many of our projects are featured in **silent, ASMR-style build sessions** on YouTube — ideal for viewers who enjoy focused, distraction-free development walkthroughs.
 
-📹 [Visit the YouTube Channel →](https://youtube.com/@YourChannelName)
+📹 [Visit the YouTube Channel →](https://youtube.com/@tgc-707)
 
 ---
 
